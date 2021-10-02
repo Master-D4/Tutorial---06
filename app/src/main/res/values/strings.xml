@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tutorial - 06</string>
+    <string name="btn_save">SAVE</string>
+    <string name="btn_show">SHOW</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="btn_delete">DELETE</string>
+    <string name="et_id">Please enter your ID</string>
+    <string name="et_name">Please enter your Name</string>
+    <string name="et_address">Please enter your Address</string>
+    <string name="et_cno">Please Enter Contact Number</string>
+</resources>
